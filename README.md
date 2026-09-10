@@ -14,7 +14,7 @@ The coffee company wants to understand its sales performance across countries, c
 - How do sales vary by roast type - Dark, Light, or Medium?
 - How do sales vary by package size - 0.2kg, 0.5kg, 1.0kg, or 2.5kg?
 - What impact does having a loyalty (Royalty) card have on customer purchases?
-- Dashboard Interaction [View Dashboard]
+- Dashboard Interaction [https://1drv.ms/x/c/52fbee25a4db2ff5/IQC-saHVmYJVQof4HGzwDwoTAXI9MldiGjjEIHrqfQBkIEs?e=b3VdhY]
 
 ## Process
 - Verified data for any missing values and anomalies across the orders, customers, and products sheets, and sorted out the same.
