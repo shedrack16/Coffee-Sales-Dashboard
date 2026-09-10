@@ -4,7 +4,7 @@
 The coffee company wants to understand its sales performance across countries, customers, and product types from 2019 to 2022. So that the business can identify its strongest markets and customers, and grow more sales going forward.
 
 ## Dataset used
-- [Coffee Orders Dataset](https://github.com/shedrack16/Coffee-Sales-Dashboard)
+- [Coffee Orders Dataset](https://docs.google.com/spreadsheets/d/1XSW71_uDr5MIIO2niFSk06biV6Ft-T-i/edit?usp=drivesdk&ouid=116314777286714285295&rtpof=true&sd=true)
 
 ## Questions (KPIs)
 - How have total sales trended over time (2019-2022)?
@@ -14,7 +14,7 @@ The coffee company wants to understand its sales performance across countries, c
 - How do sales vary by roast type - Dark, Light, or Medium?
 - How do sales vary by package size - 0.2kg, 0.5kg, 1.0kg, or 2.5kg?
 - What impact does having a loyalty (Royalty) card have on customer purchases?
-- Dashboard Interaction [View Dashboard](https://github.com/shedrack16/Coffee-Sales-Dashboard)
+- Dashboard Interaction [View Dashboard]
 
 ## Process
 - Verified data for any missing values and anomalies across the orders, customers, and products sheets, and sorted out the same.
