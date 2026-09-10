@@ -23,7 +23,8 @@ The coffee company wants to understand its sales performance across countries, c
 - Merged all pivot tables into one dashboard and applied slicers (Order Date, Roast Type, Size, Royalty Card) to make it dynamic.
 
 ## Dashboard
-C:/Users/New%20User/Pictures/Screenshots/Screenshot%202026-08-15%20131641.png
+<img width="629" height="321" alt="Screenshot 2026-08-15 131641" src="https://github.com/user-attachments/assets/a9da756f-6299-405d-b1fa-a905c18c2d1f" />
+
 
 ## Project Insight
 - The United States is by far the largest market, generating $34,281 in sales, well ahead of Ireland ($6,440) and the United Kingdom ($2,593).
